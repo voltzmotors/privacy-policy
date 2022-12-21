@@ -1,2 +1,275 @@
-<!DOCTYPE  html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt" lang="pt"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/></head><body><h1 style="padding-top: 4pt;padding-left: 185pt;text-indent: 0pt;text-align: center;">Política de Privacidade</h1><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Quando você realiza uma compra ou contrata um serviço na Voltz, você nos fornece alguns dados pessoais com o objetivo de viabilizar a sua operação. A Voltz preza pela segurança dos seus dados, pelo respeito a sua privacidade e pela transparência com você e, por isso, dedicamos este documento para explicar como os seus dados pessoais serão tratados pelo Voltz e quais são as medidas que aplicamos para mantê-los seguros.</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Antes de mais nada, nos apresentamos, nós somos o Voltz Motors do Brasil Comércio de Motocicletas LTDA, inscrito no CNPJ 28.749.702/0001-91, com sede na Cidade de Recife, Estado de Pernambuco, na AV ENGENHEIRO DOMINGOS FERREIRA, 2379 Boa Viagem, e segundo a definição trazida pela Lei Geral de Proteção de Dados “LGPD” (Lei Federal nº 13.709.2018), na maior parte do tempo seremos o controlador das suas informações, sendo assim, responsável por definir o que acontece com estes dados e por protegê-los.</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Para facilitar a compreensão desta política, todas as vezes que encontrar os termos “Voltz”, “nós” ou “nossos”, estamos nos referindo ao controlador dos seus dados pessoais, ou seja, a VOLTZ MOTORS DO BRASIL e, todas as vezes que ler “usuário”, “você”, “seu” ou “sua”, nos referimos a você, nosso cliente ou usuário das nossas plataformas.</p><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">QUAIS DADOS SÃO COLETADOS PELA VOLTZ</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Durante sua experiência em uma de nossas lojas, uso do nosso App ou de outros aplicativos da Voltz, podemos coletar diferentes tipos de dados pessoais, de forma automática com o objetivo de conferência, monitoramento e controle, ou fornecidas diretamente por você, como por exemplo para a realização de seu cadastro. Veja abaixo quais dados pessoais nós podemos coletar e em cada situação:</p><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Durante o cadastro:</p><ul id="l1"><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Nome completo;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Número de CPF;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Endereço de e-mail;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Número de celular;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Data de nascimento;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Gênero;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Dados referentes aos seus endereços.</p><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Durante o preenchimento do local de entrega e forma de pagamento:</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Endereço de cobrança;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Endereço de entrega;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Dados do cartão de crédito, quando escolhido como forma de pagamento.</p><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Durante a análise e o monitoramento de suas compras ou outras transações financeiras:</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Dados cadastrais;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Tipo de produto;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Quantidade;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Valor da mercadoria (unitário);</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Valor total da compra ou transação;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Natureza da transação financeira;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Informações da conta bancária e outros meios utilizados.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Filiação.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Informações de renda.</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Abaixo apresentamos as informações que poderão ser coletadas mesmo que o Usuário não esteja cadastrado nas lojas virtuais ou nos aplicativos da Voltz.</p></li><li data-list-text="•"><p style="padding-top: 11pt;padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Durante a navegação na plataforma:</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Endereço de IP;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Informações sobre o dispositivo utilizado para a navegação;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Produtos e categorias pesquisados ou visualizados;</p></li><li data-list-text="•"><p style="padding-top: 3pt;padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Contagem de visualizações;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Páginas visitadas em outros sites.</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;"><a href="mailto:privacidade@voltzmotors.com" class="a" target="_blank">Abaixo apresentamos algumas informações que somente serão acessadas se você nos autorizar. A qualquer momento, você poderá revogar essa autorização utilizando os nossos canais de atendimento ou o no email </a><a href="mailto:privacidade@voltzmotors.com" target="_blank">privacidade@voltzmotors.com</a></p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Durante a utilização de determinadas funcionalidades em um dos aplicativos das marcas da Voltz:</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Geolocalização;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Acesso à lista de contatos;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Acesso à câmera.</p><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;line-height: 12pt;text-align: justify;">Outras informações que poderão ser coletadas:</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Informações de login social, caso você realize seu cadastro por meio de uma conta em rede social, como Facebook e Google, e autorize essa coleta;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Informações sobre você que se tornaram públicas por você ou que estejam disponíveis publicamente;</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Informações que coletamos de terceiros como, por exemplo, complementos dos seus dados cadastrais (nome, filiação, data de nascimento, CPF, número de telefone, endereço, entre outros), score gerado por agências de crédito, se você faz parte de alguma lista de Pessoa Exposta Politicamente (PEP) ou de alguma lista de alerta (como, OFAC, CSNU e outras listas internacionais), entre outras.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Informações que recebemos de parceiros para entrega de produtos adquiridos nas plataformas parceiras da Voltz como, por exemplo, resgate de produtos em programas de fidelidade ou qualquer outra plataforma em que o Voltz possa ofertar seu catálogo de produtos e serviços.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Informações fornecidas por você, voluntariamente, como por meio de comunicações com a Voltz em redes sociais ou em comentários e avaliações de produtos.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Cópias de documentos enviados por você como comprovante de residência, dados bancários ou cópia de um documento de identidade, geralmente utilizados para comprovação de seu cadastro ou validação de sua identidade.</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-top: 8pt;padding-left: 5pt;text-indent: 0pt;line-height: 12pt;text-align: left;">COMO NÓS UTILIZAMOS OS SEUS DADOS PESSOAIS</p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Nós utilizamos os dados pessoais para garantir um atendimento de qualidade e uma melhor experiência na sua compra. Listamos abaixo as finalidades que poderemos utilizar seus dados pessoais:</p><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;line-height: 12pt;text-align: justify;">Dados cadastrais:</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Para viabilizar a prestação de diferentes serviços disponíveis em nossas lojas, nos aplicativos da Voltz ou no App Minha Voltz (e-commerce, seminovos, volterz e pagamentos em lojas físicas do Voltz Motors).</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Para realizar o atendimento de solicitações e dúvidas em nossa Central de Atendimento.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Para identificar corretamente o Usuário.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Para enviar os produtos adquiridos ou comunicações de ofertas.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Para entrar em contato com você, quando necessário. Esse contato pode contemplar diversos assuntos, como comunicação sobre promoções e ofertas, respostas a dúvidas, respostas de reclamações e solicitações, atualizações dos pedidos realizados e informações de entrega.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: justify;">Para auxiliar no diagnóstico e solução de problemas técnicos.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Para desenvolver novas funcionalidades e melhorias, melhorando a sua experiência com nossos serviços disponíveis.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: justify;">Para consultar suas informações nas bases de dados de agências de crédito.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Para realizar investigações e medidas de prevenção e combate a ilícitos, fraudes, crimes financeiros e crimes de lavagem de dinheiro e/ou de financiamento ao terrorismo.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Para garantir o cumprimento de obrigação legal ou regulatória ou garantir o exercício regular de direitos da Voltz. Nesses casos, podemos, inclusive, utilizar e apresentar as informações em processos judiciais e administrativos, se necessário.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Para colaborar com o cumprimento de ordem judicial, de autoridade competente ou de órgão fiscalizador.</p><p style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Geolocalização:</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Para identificar as lojas físicas mais próximas de você.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Para identificar as assistências mais próximas de você.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Exibir anúncios personalizados.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Para envio de mensagens contextualizadas via push (1).</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: left;">Para auxiliar nas análises que possam ser utilizadas para proteger sua conta e aumentar o nível de segurança dos seus dados cadastrais ou, ainda, prevenir possíveis fraudes.</p><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Lista de Contato e Câmera:</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Para disponibilizar as funcionalidades e recursos do App Minha Voltz.</p><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;line-height: 12pt;text-align: left;">Dados de Navegação:</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Para auxiliar no diagnóstico e solução de problema técnicos.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: left;">Para desenvolver novas funcionalidades e melhorias, melhorando a sua experiência com nossos serviços disponíveis.</p><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">COM QUEM NÓS PODEMOS COMPARTILHAR OS DADOS PESSOAIS</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Para a execução das atividades acima listadas, sempre que necessário, nós poderemos compartilhar os seus dados pessoais com prestadores de serviço, parceiros ou com órgãos reguladores. Jamais comercializamos dados pessoais. Apresentamos a seguir um resumo destas possibilidades:</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Prestadores de serviço: para que possamos disponibilizar nossos produtos e prestar os nossos serviços com qualidade, contamos com a colaboração de diversos prestadores de serviço, que tratam os dados pessoais coletados em nosso nome e de acordo com nossas instruções. Esses prestadores  de  serviço  atuam  principalmente  para  nos  auxiliar  nas  análise  antifraude, intermediação de pagamentos, gestão de campanhas de marketing, enriquecimento de base de dados e armazenamento em nuvem.</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Autoridades judiciais, policiais ou governamentais: nós devemos fornecer dados pessoais de Clientes  e/ou  Usuários,  em  atendimento  à  ordem  judicial,  solicitações  de  autoridades administrativas, obrigação legal ou regulatória, bem como para agir de forma colaborativa com autoridades governamentais, em geral em investigações envolvendo atos ilícitos.</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Potenciais compradores: podemos compartilhar seus dados pessoais com outras empresas as quais o Voltz conclua uma negociação de venda ou transferência de parte ou da totalidade da atividade comercial, negócio ou operação da Voltz. Caso a venda ou transferência não sejam consumadas, solicitaremos ao potencial comprador que não faça uso e não divulgue seus dados pessoais de qualquer maneira ou forma, apagando-os por completo.</p><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">ARMAZENAMENTO E SEGURANÇA DOS DADOS PESSOAIS</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Nós armazenamos seus dados de forma segura em data centers localizados no Brasil, bem como no exterior. Neste caso de armazenamento no exterior, são adotadas todas as medidas legais aplicáveis,  em  conformidade  com  a  Lei  Geral  de  Proteção  de  Dados  e  suas  futuras regulamentações, garantindo a proteção e privacidade dos seus dados pessoais.</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Nós adotamos as melhores técnicas para proteger os dados pessoais coletados de acessos não autorizados, destruição, perda, alteração, comunicação ou qualquer forma de tratamento inadequado ou ilícito, inclusive mecanismos de criptografia. Ressaltamos, contudo, que nenhuma plataforma é completamente segura. Se você tiver qualquer preocupação ou suspeita de que os seus dados estejam em risco, por favor, entre em contato conosco por meio dos nossos canais de atendimento que ficaremos felizes em te ou auxiliar prontamente.</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Seus dados pessoais serão mantidos durante todo o período que for um cliente ativo da Voltz. Após esse período, podemos armazenar os seus dados pessoais por um período adicional para fins de auditoria, para possibilitar o cumprimento de obrigações legais ou regulatórias. Faremos a retenção dos seus dados pelo prazo necessário, respeitando os prazos estabelecidos na legislação aplicável.</p><p style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">COOKIES E TECNOLOGIAS DE MONITORAMENTO</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Podemos  utilizar  certas  tecnologias  de  monitoramento  para  coletar  as  informações  das atividades realizadas nas nossas plataformas ou no App Minha Voltz de forma automatizada. As informações coletadas por meio de tais tecnologias são utilizadas para realizar métricas de performance do aplicativo, identificar problemas no uso, captar o comportamento dos Usuários de forma geral e coletar dados de impressão de conteúdos.</p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Veja abaixo algumas das tecnologias que poderão estar presentes nas plataformas e no App Minha Voltz:</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Cookies: cookie é um pequeno arquivo adicionado ao dispositivo do Usuário para fornecer uma experiência personalizada de acesso à plataforma. Os cookies ajudam a analisar o tráfego de internet e nos permite saber quando o Usuário visitou um site específico. Um cookie não dá acesso a um computador ou revela informações além dos dados que o usuário escolhe compartilhar conosco.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Pixels: pixels são partes do código JavaScript instalados adicionados em nossas aplicações, websites ou no corpo de um e-mail, com a finalidade de rastrear coletar informações sobre as atividades dos usuários, permitindo a identificação dos seus padrões de acesso, navegação, interesse e compras de produtos, e otimizando utilizados para otimizar o direcionamento de conteúdo.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Web beacon: web beacon é uma técnica que permite mapear quem está visitando uma determinada página da web, identificando o comportamento do usuário com diferentes sites ou servidores da web.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Ferramentas de analytics: essas ferramentas podem coletar informações sobre a forma como os Usuários visitam uma de nossas lojas, o App Minha Voltz, ou outros aplicativos da Voltz, quais páginas eles visitam e quando visitam tais páginas, outros sites que foram visitados antes, entre outras.</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-top: 8pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">TRANSFERÊNCIA INTERNACIONAL DE DADOS PESSOAIS</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Alguns de seus dados pessoais poderão ser transferidos para outros países, por exemplo, quando utilizarmos serviços computacionais em nuvem para processamento ou armazenamento de dados, localizados fora do Brasil. Mas não se preocupe, a Voltz observa também nestas situações todos os requisitos estabelecidos na legislação vigente, e adota as melhores práticas de mercado a fim de garantir a proteção e privacidade dos seus dados pessoais.</p><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">SEUS DIREITOS COMO TITULAR DOS DADOS PESSOAIS</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">A transparência sobre o tratamento dos seus dados pessoais é prioridade para o Voltz. Além das informações disponibilizadas nesta Política de Privacidade, você pode também exercer os direitos previstos na Lei Geral de Proteção de Dados, entre eles:</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Confirmação da existência de tratamento de dados pessoais.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Acesso aos dados pessoais.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Revogação do consentimento.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;line-height: 12pt;text-align: left;">Correção de dados pessoais incompletos, inexatos ou desatualizados.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Eliminação dos dados pessoais tratados com o consentimento ou desnecessários, excessivos ou quando entender que algum ponto da LGPD não foi atendido.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Informação sobre as hipóteses e com quais empresas, parceiros e outras instituições podemos compartilhar, ou receber dados pessoais referentes a você.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa, quando aplicável.</p></li><li data-list-text="•"><p style="padding-left: 14pt;text-indent: -9pt;text-align: justify;">Todas as solicitações serão tratadas de forma gratuita, e serão submetidas a uma prévia avaliação da sua identidade e da viabilidade do atendimento, a fim de cumprir com eventuais obrigações que impeçam o completo atendimento das requisições dos titulares de direito.</p></li></ul><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">RETENÇÃO E EXCLUSÃO DOS SEUS DADOS PESSOAIS</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Nós trataremos seus dados pessoais com elevados níveis de proteção e garantindo sua privacidade, durante todo o período que você for nosso cliente, navegando em nossas</p><p style="padding-top: 4pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">plataformas e utilizando nossos serviços, ou potencial cliente com quem dividimos nossas ofertas de produtos e serviços.</p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Quando aplicável, e mesmo se você optar por excluir seus dados pessoais da nossa base de cadastro, a Voltz poderá reter alguns ou todos os seus dados pessoais por períodos adicionais para cumprimento de obrigações legais ou regulatórias, para o exercício regular de direitos da Voltz, eventuais ações judiciais, fins de auditoria de diversas naturezas, ou outros prazos definidos e fundamentados por bases legais que justifiquem a retenção destes dados.</p><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">ALTERAÇÕES DESTA POLÍTICA DE PRIVACIDADE</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Estamos constantemente buscando aprimorar a experiência de nossos clientes. Assim, nossas práticas de tratamento de dados pessoais poderão sofrer alterações com a inclusão de novas funcionalidades e serviços.</p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Valorizamos a transparência no modo em que tratamos seus dados pessoais. Toda vez que alguma condição relevante desta Política de Privacidade for alterada, essas alterações serão válidas, eficazes e vinculantes após a nova versão ser publicada em nosso site. Estas alterações serão comunicadas por meio de um dos canais disponibilizados por você durante o seu cadastro (e-mail, SMS, WhatsApp e outros).</p><p style="padding-top: 11pt;padding-left: 5pt;text-indent: 0pt;text-align: justify;">FALE CONOSCO</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 5pt;text-indent: 0pt;text-align: justify;">Sempre que você tiver alguma dúvida sobre esta Política de Privacidade, mesmo após sua leitura, ou precisar interagir conosco sobre assuntos envolvendo os seus dados pessoais, poderá fazê-lo:</p><p style="padding-left: 5pt;text-indent: 0pt;text-align: left;"><a href="http://www.voltzmotors.com/" class="a" target="_blank">Por meio dos nossos canais de atendimento disponíveis em </a><a href="mailto:privacidade@voltzmotors.com" class="a" target="_blank">https://www.voltzmotors.com/ ou no através do email </a>privacidade@voltzmotors.com, solicitando as opções sobre a privacidade dos seus dados pessoais, sempre que disponível; ou</p><p style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Recomendamos que verifiquem a versão atualizada desta Política de Privacidade sempre que navegarem em qualquer das nossas lojas virtuais, aplicativos da Voltz Motors ou utilizarem App Minha Voltz.</p><p style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Estamos sempre à disposição para esclarecer suas dúvidas e colocar você no controle dos seus dados pessoais.</p><p style="padding-left: 5pt;text-indent: 0pt;line-height: 190%;text-align: left;">Contem conosco para mantê-los informados! Atualização: 13 de Abril de 2021.</p><p style="padding-left: 5pt;text-indent: 0pt;line-height: 13pt;text-align: left;">Voltz Motors do Brasil Comércio de Motocicletas LTDA</p></body></html>
+Política de Privacidade
+=======================
+
+  
+
+Quando você realiza uma compra ou contrata um serviço na Voltz, você nos fornece alguns dados pessoais com o objetivo de viabilizar a sua operação. A Voltz preza pela segurança dos seus dados, pelo respeito a sua privacidade e pela transparência com você e, por isso, dedicamos este documento para explicar como os seus dados pessoais serão tratados pelo Voltz e quais são as medidas que aplicamos para mantê-los seguros.
+
+  
+
+Antes de mais nada, nos apresentamos, nós somos o Voltz Motors do Brasil Comércio de Motocicletas LTDA, inscrito no CNPJ 28.749.702/0001-91, com sede na Cidade de Recife, Estado de Pernambuco, na AV ENGENHEIRO DOMINGOS FERREIRA, 2379 Boa Viagem, e segundo a definição trazida pela Lei Geral de Proteção de Dados “LGPD” (Lei Federal nº 13.709.2018), na maior parte do tempo seremos o controlador das suas informações, sendo assim, responsável por definir o que acontece com estes dados e por protegê-los.
+
+  
+
+Para facilitar a compreensão desta política, todas as vezes que encontrar os termos “Voltz”, “nós” ou “nossos”, estamos nos referindo ao controlador dos seus dados pessoais, ou seja, a VOLTZ MOTORS DO BRASIL e, todas as vezes que ler “usuário”, “você”, “seu” ou “sua”, nos referimos a você, nosso cliente ou usuário das nossas plataformas.
+
+QUAIS DADOS SÃO COLETADOS PELA VOLTZ
+
+  
+
+Durante sua experiência em uma de nossas lojas, uso do nosso App ou de outros aplicativos da Voltz, podemos coletar diferentes tipos de dados pessoais, de forma automática com o objetivo de conferência, monitoramento e controle, ou fornecidas diretamente por você, como por exemplo para a realização de seu cadastro. Veja abaixo quais dados pessoais nós podemos coletar e em cada situação:
+
+Durante o cadastro:
+
+*   Nome completo;
+    
+*   Número de CPF;
+    
+*   Endereço de e-mail;
+    
+*   Número de celular;
+    
+*   Data de nascimento;
+    
+*   Gênero;
+    
+*   Dados referentes aos seus endereços.
+    
+    Durante o preenchimento do local de entrega e forma de pagamento:
+    
+*   Endereço de cobrança;
+    
+*   Endereço de entrega;
+    
+*   Dados do cartão de crédito, quando escolhido como forma de pagamento.
+    
+    Durante a análise e o monitoramento de suas compras ou outras transações financeiras:
+    
+*   Dados cadastrais;
+    
+*   Tipo de produto;
+    
+*   Quantidade;
+    
+*   Valor da mercadoria (unitário);
+    
+*   Valor total da compra ou transação;
+    
+*   Natureza da transação financeira;
+    
+*   Informações da conta bancária e outros meios utilizados.
+    
+*   Filiação.
+    
+*   Informações de renda.
+    
+      
+    
+    Abaixo apresentamos as informações que poderão ser coletadas mesmo que o Usuário não esteja cadastrado nas lojas virtuais ou nos aplicativos da Voltz.
+    
+*   Durante a navegação na plataforma:
+    
+*   Endereço de IP;
+    
+*   Informações sobre o dispositivo utilizado para a navegação;
+    
+*   Produtos e categorias pesquisados ou visualizados;
+    
+*   Contagem de visualizações;
+    
+*   Páginas visitadas em outros sites.
+    
+      
+    
+    [Abaixo apresentamos algumas informações que somente serão acessadas se você nos autorizar. A qualquer momento, você poderá revogar essa autorização utilizando os nossos canais de atendimento ou o no email](mailto:privacidade@voltzmotors.com) [privacidade@voltzmotors.com](mailto:privacidade@voltzmotors.com)
+    
+      
+    
+    Durante a utilização de determinadas funcionalidades em um dos aplicativos das marcas da Voltz:
+    
+*   Geolocalização;
+    
+*   Acesso à lista de contatos;
+    
+*   Acesso à câmera.
+    
+    Outras informações que poderão ser coletadas:
+    
+*   Informações de login social, caso você realize seu cadastro por meio de uma conta em rede social, como Facebook e Google, e autorize essa coleta;
+    
+*   Informações sobre você que se tornaram públicas por você ou que estejam disponíveis publicamente;
+    
+*   Informações que coletamos de terceiros como, por exemplo, complementos dos seus dados cadastrais (nome, filiação, data de nascimento, CPF, número de telefone, endereço, entre outros), score gerado por agências de crédito, se você faz parte de alguma lista de Pessoa Exposta Politicamente (PEP) ou de alguma lista de alerta (como, OFAC, CSNU e outras listas internacionais), entre outras.
+    
+*   Informações que recebemos de parceiros para entrega de produtos adquiridos nas plataformas parceiras da Voltz como, por exemplo, resgate de produtos em programas de fidelidade ou qualquer outra plataforma em que o Voltz possa ofertar seu catálogo de produtos e serviços.
+    
+*   Informações fornecidas por você, voluntariamente, como por meio de comunicações com a Voltz em redes sociais ou em comentários e avaliações de produtos.
+    
+*   Cópias de documentos enviados por você como comprovante de residência, dados bancários ou cópia de um documento de identidade, geralmente utilizados para comprovação de seu cadastro ou validação de sua identidade.
+    
+      
+    
+    COMO NÓS UTILIZAMOS OS SEUS DADOS PESSOAIS
+    
+    Nós utilizamos os dados pessoais para garantir um atendimento de qualidade e uma melhor experiência na sua compra. Listamos abaixo as finalidades que poderemos utilizar seus dados pessoais:
+    
+    Dados cadastrais:
+    
+*   Para viabilizar a prestação de diferentes serviços disponíveis em nossas lojas, nos aplicativos da Voltz ou no App Minha Voltz (e-commerce, seminovos, volterz e pagamentos em lojas físicas do Voltz Motors).
+    
+*   Para realizar o atendimento de solicitações e dúvidas em nossa Central de Atendimento.
+    
+*   Para identificar corretamente o Usuário.
+    
+*   Para enviar os produtos adquiridos ou comunicações de ofertas.
+    
+*   Para entrar em contato com você, quando necessário. Esse contato pode contemplar diversos assuntos, como comunicação sobre promoções e ofertas, respostas a dúvidas, respostas de reclamações e solicitações, atualizações dos pedidos realizados e informações de entrega.
+    
+*   Para auxiliar no diagnóstico e solução de problemas técnicos.
+    
+*   Para desenvolver novas funcionalidades e melhorias, melhorando a sua experiência com nossos serviços disponíveis.
+    
+*   Para consultar suas informações nas bases de dados de agências de crédito.
+    
+*   Para realizar investigações e medidas de prevenção e combate a ilícitos, fraudes, crimes financeiros e crimes de lavagem de dinheiro e/ou de financiamento ao terrorismo.
+    
+*   Para garantir o cumprimento de obrigação legal ou regulatória ou garantir o exercício regular de direitos da Voltz. Nesses casos, podemos, inclusive, utilizar e apresentar as informações em processos judiciais e administrativos, se necessário.
+    
+*   Para colaborar com o cumprimento de ordem judicial, de autoridade competente ou de órgão fiscalizador.
+    
+    Geolocalização:
+    
+*   Para identificar as lojas físicas mais próximas de você.
+    
+*   Para identificar as assistências mais próximas de você.
+    
+*   Exibir anúncios personalizados.
+    
+*   Para envio de mensagens contextualizadas via push (1).
+    
+*   Para auxiliar nas análises que possam ser utilizadas para proteger sua conta e aumentar o nível de segurança dos seus dados cadastrais ou, ainda, prevenir possíveis fraudes.
+    
+    Lista de Contato, Câmera e Upload de Imagens:
+    
+*   Para disponibilizar as funcionalidades e recursos do App Minha Voltz.
+
+*   Para que o suporte o possa auxiliar na resolução de problemas.
+    
+    Dados de Navegação:
+    
+*   Para auxiliar no diagnóstico e solução de problema técnicos.
+    
+*   Para desenvolver novas funcionalidades e melhorias, melhorando a sua experiência com nossos serviços disponíveis.
+    
+    COM QUEM NÓS PODEMOS COMPARTILHAR OS DADOS PESSOAIS
+    
+      
+    
+    Para a execução das atividades acima listadas, sempre que necessário, nós poderemos compartilhar os seus dados pessoais com prestadores de serviço, parceiros ou com órgãos reguladores. Jamais comercializamos dados pessoais. Apresentamos a seguir um resumo destas possibilidades:
+    
+      
+    
+    Prestadores de serviço: para que possamos disponibilizar nossos produtos e prestar os nossos serviços com qualidade, contamos com a colaboração de diversos prestadores de serviço, que tratam os dados pessoais coletados em nosso nome e de acordo com nossas instruções. Esses prestadores de serviço atuam principalmente para nos auxiliar nas análise antifraude, intermediação de pagamentos, gestão de campanhas de marketing, enriquecimento de base de dados e armazenamento em nuvem.
+    
+      
+    
+    Autoridades judiciais, policiais ou governamentais: nós devemos fornecer dados pessoais de Clientes e/ou Usuários, em atendimento à ordem judicial, solicitações de autoridades administrativas, obrigação legal ou regulatória, bem como para agir de forma colaborativa com autoridades governamentais, em geral em investigações envolvendo atos ilícitos.
+    
+      
+    
+    Potenciais compradores: podemos compartilhar seus dados pessoais com outras empresas as quais o Voltz conclua uma negociação de venda ou transferência de parte ou da totalidade da atividade comercial, negócio ou operação da Voltz. Caso a venda ou transferência não sejam consumadas, solicitaremos ao potencial comprador que não faça uso e não divulgue seus dados pessoais de qualquer maneira ou forma, apagando-os por completo.
+    
+    ARMAZENAMENTO E SEGURANÇA DOS DADOS PESSOAIS
+    
+      
+    
+    Nós armazenamos seus dados de forma segura em data centers localizados no Brasil, bem como no exterior. Neste caso de armazenamento no exterior, são adotadas todas as medidas legais aplicáveis, em conformidade com a Lei Geral de Proteção de Dados e suas futuras regulamentações, garantindo a proteção e privacidade dos seus dados pessoais.
+    
+      
+    
+    Nós adotamos as melhores técnicas para proteger os dados pessoais coletados de acessos não autorizados, destruição, perda, alteração, comunicação ou qualquer forma de tratamento inadequado ou ilícito, inclusive mecanismos de criptografia. Ressaltamos, contudo, que nenhuma plataforma é completamente segura. Se você tiver qualquer preocupação ou suspeita de que os seus dados estejam em risco, por favor, entre em contato conosco por meio dos nossos canais de atendimento que ficaremos felizes em te ou auxiliar prontamente.
+    
+      
+    
+    Seus dados pessoais serão mantidos durante todo o período que for um cliente ativo da Voltz. Após esse período, podemos armazenar os seus dados pessoais por um período adicional para fins de auditoria, para possibilitar o cumprimento de obrigações legais ou regulatórias. Faremos a retenção dos seus dados pelo prazo necessário, respeitando os prazos estabelecidos na legislação aplicável.
+    
+    COOKIES E TECNOLOGIAS DE MONITORAMENTO
+    
+      
+    
+    Podemos utilizar certas tecnologias de monitoramento para coletar as informações das atividades realizadas nas nossas plataformas ou no App Minha Voltz de forma automatizada. As informações coletadas por meio de tais tecnologias são utilizadas para realizar métricas de performance do aplicativo, identificar problemas no uso, captar o comportamento dos Usuários de forma geral e coletar dados de impressão de conteúdos.
+    
+    Veja abaixo algumas das tecnologias que poderão estar presentes nas plataformas e no App Minha Voltz:
+    
+*   Cookies: cookie é um pequeno arquivo adicionado ao dispositivo do Usuário para fornecer uma experiência personalizada de acesso à plataforma. Os cookies ajudam a analisar o tráfego de internet e nos permite saber quando o Usuário visitou um site específico. Um cookie não dá acesso a um computador ou revela informações além dos dados que o usuário escolhe compartilhar conosco.
+    
+*   Pixels: pixels são partes do código JavaScript instalados adicionados em nossas aplicações, websites ou no corpo de um e-mail, com a finalidade de rastrear coletar informações sobre as atividades dos usuários, permitindo a identificação dos seus padrões de acesso, navegação, interesse e compras de produtos, e otimizando utilizados para otimizar o direcionamento de conteúdo.
+    
+*   Web beacon: web beacon é uma técnica que permite mapear quem está visitando uma determinada página da web, identificando o comportamento do usuário com diferentes sites ou servidores da web.
+    
+*   Ferramentas de analytics: essas ferramentas podem coletar informações sobre a forma como os Usuários visitam uma de nossas lojas, o App Minha Voltz, ou outros aplicativos da Voltz, quais páginas eles visitam e quando visitam tais páginas, outros sites que foram visitados antes, entre outras.
+    
+      
+    
+    TRANSFERÊNCIA INTERNACIONAL DE DADOS PESSOAIS
+    
+      
+    
+    Alguns de seus dados pessoais poderão ser transferidos para outros países, por exemplo, quando utilizarmos serviços computacionais em nuvem para processamento ou armazenamento de dados, localizados fora do Brasil. Mas não se preocupe, a Voltz observa também nestas situações todos os requisitos estabelecidos na legislação vigente, e adota as melhores práticas de mercado a fim de garantir a proteção e privacidade dos seus dados pessoais.
+    
+    SEUS DIREITOS COMO TITULAR DOS DADOS PESSOAIS
+    
+      
+    
+    A transparência sobre o tratamento dos seus dados pessoais é prioridade para o Voltz. Além das informações disponibilizadas nesta Política de Privacidade, você pode também exercer os direitos previstos na Lei Geral de Proteção de Dados, entre eles:
+    
+*   Confirmação da existência de tratamento de dados pessoais.
+    
+*   Acesso aos dados pessoais.
+    
+*   Revogação do consentimento.
+    
+*   Correção de dados pessoais incompletos, inexatos ou desatualizados.
+    
+*   Eliminação dos dados pessoais tratados com o consentimento ou desnecessários, excessivos ou quando entender que algum ponto da LGPD não foi atendido.
+    
+*   Informação sobre as hipóteses e com quais empresas, parceiros e outras instituições podemos compartilhar, ou receber dados pessoais referentes a você.
+    
+*   Informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa, quando aplicável.
+    
+*   Todas as solicitações serão tratadas de forma gratuita, e serão submetidas a uma prévia avaliação da sua identidade e da viabilidade do atendimento, a fim de cumprir com eventuais obrigações que impeçam o completo atendimento das requisições dos titulares de direito.
+    
+
+RETENÇÃO E EXCLUSÃO DOS SEUS DADOS PESSOAIS
+
+  
+
+Nós trataremos seus dados pessoais com elevados níveis de proteção e garantindo sua privacidade, durante todo o período que você for nosso cliente, navegando em nossas
+
+plataformas e utilizando nossos serviços, ou potencial cliente com quem dividimos nossas ofertas de produtos e serviços.
+
+Quando aplicável, e mesmo se você optar por excluir seus dados pessoais da nossa base de cadastro, a Voltz poderá reter alguns ou todos os seus dados pessoais por períodos adicionais para cumprimento de obrigações legais ou regulatórias, para o exercício regular de direitos da Voltz, eventuais ações judiciais, fins de auditoria de diversas naturezas, ou outros prazos definidos e fundamentados por bases legais que justifiquem a retenção destes dados.
+
+ALTERAÇÕES DESTA POLÍTICA DE PRIVACIDADE
+
+  
+
+Estamos constantemente buscando aprimorar a experiência de nossos clientes. Assim, nossas práticas de tratamento de dados pessoais poderão sofrer alterações com a inclusão de novas funcionalidades e serviços.
+
+Valorizamos a transparência no modo em que tratamos seus dados pessoais. Toda vez que alguma condição relevante desta Política de Privacidade for alterada, essas alterações serão válidas, eficazes e vinculantes após a nova versão ser publicada em nosso site. Estas alterações serão comunicadas por meio de um dos canais disponibilizados por você durante o seu cadastro (e-mail, SMS, WhatsApp e outros).
+
+FALE CONOSCO
+
+  
+
+Sempre que você tiver alguma dúvida sobre esta Política de Privacidade, mesmo após sua leitura, ou precisar interagir conosco sobre assuntos envolvendo os seus dados pessoais, poderá fazê-lo:
+
+[Por meio dos nossos canais de atendimento disponíveis em](http://www.voltzmotors.com/) [https://www.voltzmotors.com/ ou no através do email](mailto:privacidade@voltzmotors.com) privacidade@voltzmotors.com, solicitando as opções sobre a privacidade dos seus dados pessoais, sempre que disponível; ou
+
+Recomendamos que verifiquem a versão atualizada desta Política de Privacidade sempre que navegarem em qualquer das nossas lojas virtuais, aplicativos da Voltz Motors ou utilizarem App Minha Voltz.
+
+Estamos sempre à disposição para esclarecer suas dúvidas e colocar você no controle dos seus dados pessoais.
+
+Contem conosco para mantê-los informados! Atualização: 13 de Abril de 2021.
+
+Voltz Motors do Brasil Comércio de Motocicletas LTDA
